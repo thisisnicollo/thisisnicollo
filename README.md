@@ -12,29 +12,10 @@ Tipps & Empfehlungen rund um das Thema Design, Technik und Lifestyle.
 - **Studentenleben:** Von Reiseabenteuern bis zum Alltag als Design Studentin.
 - **Exklusive Gaming Insights:** Schaut mir beim Gamen zu in entspannten [Streams](https://www.twitch.tv/thisisnicollo)
 
-## 🖼️ Wallpaper
-**📅 2024**
-- [❄️ Januar]
-- [✨ Februar]
-- [🌤️ März]
-- [🌷 April]
-- [💐 Mai]
-- [🍓 Juni]
-- [🌞 Juli]
-- [🌻 August]
-- [🍄 September]
-- [🎃 Oktober]
-- [🧣 November]
-- [🎄 Dezember]
-
-
 ## 🚀 Hier findest du mich
 - 🌐 [Website](https://nicollo.carrd.co/)
 - 🎥 [YouTube](https://www.youtube.com/@thisisnicollo)
 - 🫂 [Tiktok](https://www.tiktok.com/@thisisnicollo)
-
-
-
 
 ## 📫 Kontakt
 Für schnelle Gespräche schreib mir auf [Instagram](https://www.instagram.com/thisisnicollo/) oder [Twitter/X](https://twitter.com/thisisnicollo).
