@@ -1,4 +1,4 @@
-<img align="" alt="cat" width="800" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
+<img align="center" alt="cat" width="1080" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 <h1 align="center">Hallo, ich bin nicollo (thisisnicollo) 🤸🏽‍♀️</h1>
 <h4 align="center">Willkommen in meiner kreativen Welt, wo Design, Technologie und Lifestyle verschmelzen.🚀🤍 </h4>
 <h4 align="center">Hier auf meinem GitHub Profil findest du monatlich Kostenlose und ästhetische Hintergründe für deinen Bildschirm (Desktop, Smartphone, Tablet).</h4>
