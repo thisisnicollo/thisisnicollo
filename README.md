@@ -10,7 +10,7 @@ Tipps & Empfehlungen rund um das Thema Design, Technik und Lifestyle.
 - **Design**: Tutorials und vieles mehr.
 - **Tech-Welt:** Wertvolle Apps und Programme für Alltag und Studium.
 - **Studentenleben:** Von Reiseabenteuern bis zum Alltag als Design Studentin.
-- **Exklusive Gaming Insights:** Schaut mir beim Gamen zu in entspannten [Streams](https://www.twitch.tv/thisisnicollo)
+- **Exklusive Gaming Insights:** Schaut mir beim Gamen zu, in entspannten [Streams](https://www.twitch.tv/thisisnicollo)
 
 ## 🚀 Hier findest du mich
 - 🌐 [Website](https://nicollo.carrd.co/)
