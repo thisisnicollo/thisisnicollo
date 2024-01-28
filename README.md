@@ -1,5 +1,5 @@
 <img align="center" alt="cat" width="1080" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
-<h1 align="center">Hey,I'm Nicollo (thisisnicollo) 🤸🏽‍♀️</h1>
+<h1 align="center">Hey, I'm Nicollo (thisisnicollo) 🤸🏽‍♀️</h1>
 <h4 align="center">Welcome to my creative world where design, technology, and lifestyle merge.🚀🤍 </h4>
 <h4 align="center">Here on my GitHub profile, you'll find monthly free and aesthetic wallpapers for your screen (desktop, smartphone, tablet).</h4>
 
