@@ -22,9 +22,8 @@ Tipps & Empfehlungen zu Design, Technik und Lifestyle.
 
 ## 📫 Kontakt
 Für schnelle Chats kannst du mir eine Nachricht auf [Instagram](https://www.instagram.com/thisisnicollo/) oder [Twitter/X](https://twitter.com/thisisnicollo) schicken.</br></br>
-## 
 
-*English version* </br></br>
+*English version* </br>
 
 ## Hey, I'm Nicollo (thisisnicollo) 🤸🏽‍♀️
 Welcome to my creative world, where design, technology and lifestyle merge.🚀🤍</br>
