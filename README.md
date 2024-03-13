@@ -6,7 +6,7 @@
 <b>Themen</b>
     <ul>
       <li>🤍 <b>Design:</b> Tutorials und vieles mehr.</li>
-      <li>🧸 <b>Lifestyle:</b> Von Reiseabenteuern bis zum Alltag als Design Studentin.</li>
+      <li>🧸 <b>Lifestyle:</b> Von Reiseabenteuern bis zum Alltag als Studentin.</li>
       <li>💻 <b>Tech:</b> Wertvolle Apps und Programme für Alltag und Studium.</li>
     </ul>
     <a href="https://nicollo.carrd.co/" style="text-decoration: none;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" title="nicollo.carrd.co"></a>&nbsp; &nbsp; 
