@@ -13,4 +13,3 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@thisisnicollo)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/thisisnicollo)
 [![TikTok](https://img.shields.io/badge/TikTok-Profile-orange?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@thisisnicollo)
-[![Pinterest](https://img.shields.io/badge/Pinterest-Profile-red?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/thisisnicollo)
