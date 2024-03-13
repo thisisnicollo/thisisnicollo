@@ -13,5 +13,4 @@
     <a href="https://www.youtube.com/@thisisnicollo/" style="text-decoration: none;"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="YouTube" ></a>&nbsp; &nbsp; 
     <a href="https://www.instagram.com/thisisnicollo" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram" ></a>&nbsp; &nbsp; 
     <a href="https://www.tiktok.com/@thisisnicollo/" style="text-decoration: none;"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" title="TikTok"></a>&nbsp; &nbsp; 
-    <a href="#" style="text-decoration: none;"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux, yeahh"></a>&nbsp;&nbsp;
 </div>
