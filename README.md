@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-<a href="https://github.com/thisisnicollo/March_2024_Wallpaper/" style="text-decoration: none;"><img align="right" src="https://github.com/thisisnicollo/March_2024_Wallpaper/blob/6daba78cb978a1ceb7274cccf2c66d54fdc15a2f/Assets/March_2024_Wallpaper1.jpg" alt="Bild 1" style="display:block; margin-bottom: 10px; width: 40%;" title="Hier geht es zu den neusten Wallpapern"> </a>
+<a href="https://github.com/thisisnicollo/Wallpaper" style="text-decoration: none;"><img align="right" src="https://github.com/thisisnicollo/Wallpaper/blob/main/Assets/04_2024_Wallpaper.jpg" alt="Bild 1" style="display:block; margin-bottom: 10px; width: 40%;" title="Hier geht es zu den neusten Wallpapern"> </a>
    
 <h3> Hi, ich bin Nicollo 🤸🏽‍♀️</h3>
     <p> 🧸 • Design • Lifestyle • Tech <br>💻 EndeavourOS Linux<br> 🤍 Design student</p>
