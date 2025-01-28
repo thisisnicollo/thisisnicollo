@@ -14,6 +14,6 @@
         <a href="https://www.instagram.com/thisisnicollo" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="100" height="100" /></a>&nbsp; &nbsp; 
         <a href="https://de.pinterest.com/thisisnicollo/" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Juggling%20Medium%20Skin%20Tone.png" alt="Woman Juggling Medium Skin Tone" width="100" height="100" /></a>&nbsp; &nbsp; 
 <br/>
-&nbsp; &nbsp; &nbsp;Website&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;YouTube&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Instagram&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  Pinterest
+&nbsp; &nbsp; &nbsp;Website&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;YouTube&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Instagram&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  Pinterest
 </div>
 
